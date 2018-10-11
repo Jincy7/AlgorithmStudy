@@ -19,31 +19,67 @@
     <Filter Include="소스 파일\DataStructure1">
       <UniqueIdentifier>{a95dc026-ef8c-4b5a-a6c7-d36270e691dc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DP1">
+      <UniqueIdentifier>{eaf7cfa3-3721-44a7-9cb3-359da21eff70}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="A+B_4.cpp">
-      <Filter>소스 파일\IO</Filter>
-    </ClCompile>
-    <ClCompile Include="A+B_3.cpp">
-      <Filter>소스 파일\IO</Filter>
-    </ClCompile>
-    <ClCompile Include="printSame.cpp">
-      <Filter>소스 파일\IO</Filter>
-    </ClCompile>
-    <ClCompile Include="11720_sum_of_num.cpp">
-      <Filter>소스 파일\IO</Filter>
-    </ClCompile>
-    <ClCompile Include="11721_print_ten_char.cpp">
-      <Filter>소스 파일\IO</Filter>
-    </ClCompile>
-    <ClCompile Include="9012_brace.cpp">
+    <ClCompile Include="DataStructure1\9012_brace.cpp">
       <Filter>소스 파일\DataStructure1</Filter>
     </ClCompile>
-    <ClCompile Include="10799_IronStick.cpp">
+    <ClCompile Include="DataStructure1\10799_IronStick.cpp">
       <Filter>소스 파일\DataStructure1</Filter>
     </ClCompile>
-    <ClCompile Include="10799_IronStick_Stack.cpp">
+    <ClCompile Include="DataStructure1\10799_IronStick_Stack.cpp">
       <Filter>소스 파일\DataStructure1</Filter>
+    </ClCompile>
+    <ClCompile Include="IO\11720_sum_of_num.cpp">
+      <Filter>소스 파일\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="IO\11721_print_ten_char.cpp">
+      <Filter>소스 파일\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="IO\A+B_3.cpp">
+      <Filter>소스 파일\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="IO\A+B_4.cpp">
+      <Filter>소스 파일\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="IO\printSame.cpp">
+      <Filter>소스 파일\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure1\1406_editor_stack.cpp">
+      <Filter>소스 파일\DataStructure1</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure1\1158_josephus_queue.cpp">
+      <Filter>소스 파일\DataStructure1</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure1\2743_wordLength.cpp">
+      <Filter>소스 파일\DataStructure1</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure1\11655_ROT13.cpp">
+      <Filter>소스 파일\DataStructure1</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgramming1\1463_make_1.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgramming1\11726_2xn_tile.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgramming1\11727_2xn_tile2.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgramming1\9095_sumOf123.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgramming1\11052_buy_card.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgramming1\2156_drink_wine.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgramming1\11058_ascending_number.cpp">
+      <Filter>소스 파일\DP1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
