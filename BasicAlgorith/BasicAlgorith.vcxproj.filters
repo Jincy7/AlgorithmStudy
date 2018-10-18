@@ -22,6 +22,15 @@
     <Filter Include="소스 파일\DP1">
       <UniqueIdentifier>{eaf7cfa3-3721-44a7-9cb3-359da21eff70}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Math1">
+      <UniqueIdentifier>{8b623a32-7ae1-4ecb-a8b1-2598aab4345b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Graph">
+      <UniqueIdentifier>{8af4d3d2-93c2-4b69-aace-8feec8d38c71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\test">
+      <UniqueIdentifier>{b3a15477-3da3-42de-8750-3c4dc9ca1b2f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure1\9012_brace.cpp">
@@ -80,6 +89,39 @@
     </ClCompile>
     <ClCompile Include="DynamicProgramming1\11058_ascending_number.cpp">
       <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgramming1\2193_pinary_number.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicProgramming1\10844_easy_stair_num.cpp">
+      <Filter>소스 파일\DP1</Filter>
+    </ClCompile>
+    <ClCompile Include="Math\6588_goldbach.cpp">
+      <Filter>소스 파일\Math1</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\1260_DFS_BFS.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="test\test.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\11724_Connected_Component.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\10451_Permutaiton_Cycle.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="test\DFS_stack_adList.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="test\DFS_stack_Permutation.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="test\1038_descending_num.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\7576_tomato.cpp">
+      <Filter>소스 파일\Graph</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
