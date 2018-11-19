@@ -31,6 +31,15 @@
     <Filter Include="소스 파일\test">
       <UniqueIdentifier>{b3a15477-3da3-42de-8750-3c4dc9ca1b2f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\WinterCoding">
+      <UniqueIdentifier>{cb4d72f8-9543-4cd7-bd86-c0e206cd820f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Greedy">
+      <UniqueIdentifier>{e2e3fd61-3af7-4e77-b419-c8bf912292e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DivedeConquer">
+      <UniqueIdentifier>{894b66fc-3bd1-4ff4-8391-5e699463f46e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure1\9012_brace.cpp">
@@ -122,6 +131,60 @@
     </ClCompile>
     <ClCompile Include="Graph\7576_tomato.cpp">
       <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\9466_make_team.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph\9466_2_make_team.cpp">
+      <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="WinterCoding\WinterCoding1.cpp">
+      <Filter>소스 파일\WinterCoding</Filter>
+    </ClCompile>
+    <ClCompile Include="WinterCoding\WinterCoding2.cpp">
+      <Filter>소스 파일\WinterCoding</Filter>
+    </ClCompile>
+    <ClCompile Include="WinterCoding\WinterCoding3.cpp">
+      <Filter>소스 파일\WinterCoding</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy\11047_coin.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy\11399_ATM.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy\1931_allocate_room.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy\2873_rollercoster.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Greedy\1080_match_matrix.cpp">
+      <Filter>소스 파일\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="test\CodingTest_1.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="test\CodingTest_2.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="test\CodingTest_3.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="DivedConquer\10816_NumCard2.cpp">
+      <Filter>소스 파일\DivedeConquer</Filter>
+    </ClCompile>
+    <ClCompile Include="DivedConquer\11728_MergeArr.cpp">
+      <Filter>소스 파일\DivedeConquer</Filter>
+    </ClCompile>
+    <ClCompile Include="DivedConquer\1074_Z.cpp">
+      <Filter>소스 파일\DivedeConquer</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStructure1\9935_explode_string.cpp">
+      <Filter>소스 파일\DataStructure1</Filter>
+    </ClCompile>
+    <ClCompile Include="DivedConquer\1517_BubbleSort.cpp">
+      <Filter>소스 파일\DivedeConquer</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
